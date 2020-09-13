@@ -1,5 +1,3 @@
-Copy of Future Imperfect by HTML5 UP template by 
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+This a copy of Future Imperfect template and customised to integrate my changes for this challenge
 
 This is a blog style template used to create by HTML-CSS example website.
